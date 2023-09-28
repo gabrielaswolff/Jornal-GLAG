@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    background-color: #38386e;
+    height: 100px;
+    display: flex;
+
+   
+}
+
+body{
+   background-image: url(WhatsApp\ Image\ 2023-09-07\ at\ 21.02.30.jpeg);
+   background-size: 40%;
+   
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    flex: 1;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+
+.manchetes{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.multiline{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    white-space: pre-line;
+    width: 50vw;
+}
+
+
+
+noticia
+
+
+
+body{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    
+    
+
+}
+
+.container{
+    height: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    white-space: pre-line;
+    
+}
+
+.jornal-text{
+    background-color: #38386e;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.4;
+    max-width: 600px;
+    color: white;
+    white-space: pre-line;
+  
+}
+
+
+pagina de cadastro
+
+body{
+    font-family: Arial, sans-serif;
+    
+   
+}
+form{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #ffffff;
+    background-color: #38386e;
+    color: white;
+    
+
+}
+label, input{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.entrar{
+            display: inline-block; 
+            padding: 10px; 
+            border: 1px solid ; 
+            text-decoration: none; 
+            align-items: center;
+            display: flex;
+            color: white;
+           
+}
+
+pagina inicial
+
+body{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container2{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    white-space: pre-line;
+    height: 640px;
+    
+}
+
+.jornal-text2{
+    background-color: #38386e;
+    padding: 70px;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.4;
+    max-width: 600px;
+    color: rgb(255, 255, 255);
+    white-space: pre-line; 
+  
+}
+
+.continuar{
+   
+    padding: 10px; 
+    border: 1px solid ; 
+    text-decoration: none; 
+    align-items: center;
+    color: rgb(255, 255, 255);  
+}
+
+
+
+
+/* Estilos para as caixas */
+.caixa{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    min-height: 86.6vh;
+    min-width: 0vh;
+    white-space: pre-line;
+    height: 10x;
+    text-decoration: none;
+    color: white;
+    white-space: pre-line;
+    text-align: center;
+
+    
+   
+}
+
+.caixa:hover {
+    background-color: #36365a;
+}
+
+
+
+
+
+.container4{
+    height: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    white-space: pre-line;
+    
+}
+
+.jornal-text4{
+    background-color: #38386e;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.4;
+    max-width: 600px;
+    color: white;
+    white-space: pre-line;
+    display: flex;
+    justify-content: center;
+}   
+
+.imagemprofissão {
+    height: 600px;
+    width: 550px;
+}
+
+.ingles{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
